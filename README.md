@@ -1,10 +1,10 @@
-# bitimulate
+# Getobox
 
-> This service is now available at https://bitimulate.com/
+> This service is now available at https://gecobox.com/
 
 ## About
 
-Bitimulate is compound word of **Bit**coin and S**imulate**. This service provides a simulated cryptocurrency trading system. Data used in this service rely on realtime information at [Poloniex](https://poloniex.com).
+Gecobox is compound word of **Get** , c**o**in and **box** (Get coin box). This service provides a simulated cryptocurrency trading system. Data used in this service rely on realtime information at [Poloniex](https://poloniex.com).
 
 Currently, Korean is the only supported language in this service. English, and other languages might be implemented later on...
 
