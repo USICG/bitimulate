@@ -1,10 +1,10 @@
 # Getobox
 
-> This service is now available at https://gecobox.com/
+> This service is now available at https://getobox.com/
 
 ## About
 
-Gecobox is compound word of **Get** , c**o**in and **box** (Get coin box). This service provides a simulated cryptocurrency trading system. Data used in this service rely on realtime information at [Poloniex](https://poloniex.com).
+Getobox is compound word of **Get** , c**o**in and **box** (Get coin box). This service provides a simulated cryptocurrency trading system. Data used in this service rely on realtime information at [Poloniex](https://poloniex.com).
 
 Currently, Korean is the only supported language in this service. English, and other languages might be implemented later on...
 
