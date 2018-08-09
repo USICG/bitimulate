@@ -36,5 +36,5 @@ exports.getRanking = async (ctx) => {
     };
   } catch (e) {
     ctx.throw(e, 500);
-  }
+  } 
 };
