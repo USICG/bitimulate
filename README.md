@@ -49,7 +49,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone this project from the github repository.
 
 ```bash
-$ git clone https://github.com/velopert/bitimulate
+$ git clone https://github.com/USICG/getobox
 ```
 
 Install packages in both backend and frontend directory using following command:
@@ -60,11 +60,11 @@ $ yarn
 
 ### Rename .env.bak file
 
-You have to rename `.env.bak` file to `.env` in bitimulate-backend directory. This file contains environment variable for the server.
+You have to rename `.env.bak` file to `.env` in getobox-backend directory. This file contains environment variable for the server.
 
 ### Uncomment the registerInitialExchangeRate line @ crawler
 
-Open the [crawler file](https://github.com/velopert/bitimulate/blob/master/bitimulate-backend/src/crawler/index.js#L15) and uncomment following code:
+Open the [crawler file](https://github.com/USICG/getobox/blob/master/getobox-backend/src/crawler/index.js#L15) and uncomment following code:
 
 ```javascript
   await registerInitialExchangeRate();
